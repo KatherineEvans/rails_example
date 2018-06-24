@@ -1,0 +1,1 @@
+json.message ["Hello from Rails!", "Welcome to the page", "Sorry you're hungover", ["dog", "cat", "bird"], "animals"]
